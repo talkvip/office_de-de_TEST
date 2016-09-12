@@ -4,7 +4,7 @@ Vielen Dank für Ihr Interesse an unserer Dokumentation!
 
 * [Möglichkeiten zur Mitwirkung](#ways-to-contribute)
 * [Mit GitHub mitwirken](#contribute-using-github)
-* [Mit Git mitwirken](#(#contribute-using-git)
+* [Mit Git mitwirken](#contribute-using-git)
 * [Häufig gestellte Fragen](#faq)
 * [Weitere Ressourcen](#more-resources)
 
