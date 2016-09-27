@@ -3,7 +3,7 @@
 Der Dienst Auth0 vereinfacht die Anmeldung an sozialen Netzwerken, die von Onlinediensten wie Facebook, Google und Microsoft bereitgestellt wird. Dieses Beispiel zeigt die Verwendung von Auth0 in einem Office-Add-In. 
 
 ## Inhaltsverzeichnis
-* [Änderungsverlauf](#änderungsverlauf)
+* [Änderungsverlauf](#Änderungsverlauf)
 * [Voraussetzungen](#voraussetzungen)
 * [Konfigurieren des Projekts](#konfigurieren-des-projekts)
 * [Erstellen eines Auth0-Kontos und Konfigurieren des Kontos für die Verwendung von Google, Facebook und Microsoft-Konto](#erstellen-eines-auth0-kontos-und-konfigurieren-des-kontos-für-die-verwendung-von-google-facebook-und-microsoft-konto)
