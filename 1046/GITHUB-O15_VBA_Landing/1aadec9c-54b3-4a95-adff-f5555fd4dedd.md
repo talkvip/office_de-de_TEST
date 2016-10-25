@@ -1,0 +1,6 @@
+
+# Célula Colar (Seção Camadas), Visio [Vis_DSS.chm415]
+
+Olá! Você foi redirecionado para uma das nossas páginas de Ajuda F1. Selecione o tópico que estava procurando abaixo.
+
+[Célula Glue (Seção Layers)](http://msdn.microsoft.com/library/75f2ea45-52ac-ddfa-14ea-402933ae2449%28Office.15%29.aspx)

@@ -1,0 +1,6 @@
+
+# Célula ShdwForegndTrans (Seção Preenchimento de formato), Visio [Vis_DSS.chm50145]
+
+Olá! Você foi redirecionado para uma das nossas páginas de Ajuda F1. Selecione o tópico que estava procurando abaixo.
+
+[Célula ShdwForegndTrans (Seção Fill Format)](http://msdn.microsoft.com/library/c42d4d2e-f8f0-bc5b-6018-4bb4ffa81b64%28Office.15%29.aspx)

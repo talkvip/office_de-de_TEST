@@ -1,0 +1,11 @@
+
+# Propriedade PictureTiling, Access [vbaac10.chm5820]
+
+Olá! Você foi redirecionado para uma das nossas páginas de Ajuda F1. Selecione o tópico que estava procurando abaixo.
+
+[Propriedade Report.PictureTiling (Access)](http://msdn.microsoft.com/library/44927121-1ec4-1edf-b3ca-3e00022fab08%28Office.15%29.aspx)
+
+[Propriedade Attachment.PictureTiling (Access)](http://msdn.microsoft.com/library/d7eb8047-ea1d-e864-d2d7-51cd340cbc63%28Office.15%29.aspx)
+
+[Propriedade Image.PictureTiling (Access)](http://msdn.microsoft.com/library/9be8cde0-4632-197e-ea3a-8db5846b8920%28Office.15%29.aspx)
+[Propriedade Form.PictureTiling (Access)](http://msdn.microsoft.com/library/9343925c-8184-e9fc-ed62-a272a0bfa0a6%28Office.15%29.aspx)

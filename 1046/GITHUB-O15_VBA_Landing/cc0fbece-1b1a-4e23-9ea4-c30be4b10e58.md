@@ -1,0 +1,6 @@
+
+# Célula NoAlignBox (Seção Miscellaneous), Visio [Vis_DSS.chm700]
+
+Olá! Você foi redirecionado para uma das nossas páginas de Ajuda F1. Selecione o tópico que estava procurando abaixo.
+
+[Célula NoAlignBox (Seção Miscellaneous)](http://msdn.microsoft.com/library/b2d51f4b-d64e-fd14-4ff1-ed67c69213bc%28Office.15%29.aspx)
