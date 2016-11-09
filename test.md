@@ -1,1 +1,1 @@
- _expressao_. **SendObject**( ** _ObjectType_**, ** _ObjectName_**, ** _OutputFormat_**, ** _To_**, ** _Cc_**, ** _Bcc_**, ** _Subject_**, ** _MessageText_**, ** _EditMessage_**, ** _TemplateFile_** )
+ _expressao_. **SendObject**( **_ObjectType_**, **_ObjectName_**, **_OutputFormat_**, **_To_**, **_Cc_**, **_Bcc_**, **_Subject_**, **_MessageText_**, **_EditMessage_**, **_TemplateFile_** )
