@@ -1,6 +1,0 @@
-
-# Usando Funções de Planilha do Excel no Visual Basic, Excel [vbaxl10.chm81960]
-
-Olá! Você foi redirecionado para uma das nossas páginas de Ajuda F1. Selecione o tópico que estava procurando abaixo.
-
-[Usando Funções de Planilha do Excel no Visual Basic](http://msdn.microsoft.com/library/46e6ba32-8a58-509c-03e8-a23c41b0a400%28Office.15%29.aspx)

@@ -1,6 +1,0 @@
-
-# Propriedades SourceConnectStr, SourceDatabase, Access [vbaac10.chm5188103]
-
-Olá! Você foi redirecionado para uma das nossas páginas de Ajuda F1. Selecione o tópico que estava procurando abaixo.
-
-[Propriedades SourceConnectStr e SourceDatabase](http://msdn.microsoft.com/library/eed57130-f030-b800-5b1a-92249d6c23a5%28Office.15%29.aspx)

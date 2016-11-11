@@ -1,6 +1,0 @@
-
-# Célula FlipX (Seção Transformar Forma), Visio [vis_sdr.chm380]
-
-Olá! Você foi redirecionado para uma das nossas páginas de Ajuda F1. Selecione o tópico que estava procurando abaixo.
-
-[Célula FlipX (Seção Shape Transform)](http://msdn.microsoft.com/library/8d4f5e14-4f17-05a6-4092-5a102c9dc85f%28Office.15%29.aspx)
